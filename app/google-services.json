@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "21198418777",
+    "firebase_url": "https://lets-get-lunch-6e3ac.firebaseio.com",
+    "project_id": "lets-get-lunch-6e3ac",
+    "storage_bucket": "lets-get-lunch-6e3ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21198418777:android:e5b4b42eb0b7f1b8",
+        "android_client_info": {
+          "package_name": "com.example.charlotte.letsgetlunch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21198418777-fg4qqma92n0b24i23man7q8nntracla1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.charlotte.letsgetlunch",
+            "certificate_hash": "170236b5df47d44202dd2dc4b9c753fa6e237b5a"
+          }
+        },
+        {
+          "client_id": "21198418777-sshhdq76no14qrll11ivg7r4m4usefse.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZMXUAUQgQKNMYm45f--krT4ypOPYSyfk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21198418777-sshhdq76no14qrll11ivg7r4m4usefse.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
